@@ -1,6 +1,6 @@
 // 25-Days-75-Question-C-Coding-Challange
 // Day 04
-// Question number 12 : C Program to Find the Largest Number Among Three Numbers
+// Question number 14 : Program to Check Leap Year
 
 #include <stdio.h>
 int main() {
