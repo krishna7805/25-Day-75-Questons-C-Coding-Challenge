@@ -1,5 +1,5 @@
 // 25-Days-75-Question-C-Coding-Challenge
-// day 08
+// day 09
 // Question number 26 : C Program to Calculate the Power of a Number
 
 #include <stdio.h>
