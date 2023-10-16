@@ -1,6 +1,6 @@
 // 25-Days-75-Question-C-Coding-Challenge
 // day 08
-// Question number 23 : C Program to Reverse a Number
+// Question number 25 : C Program to Reverse a Number
 
 #include<stdio.h>
 int main() 
