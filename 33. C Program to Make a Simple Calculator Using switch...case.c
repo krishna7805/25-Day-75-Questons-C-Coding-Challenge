@@ -1,6 +1,6 @@
 // 25-Days-75-question-C-Challenge
 // Day 11 : 18-oct-2023
-// Question no. 33 : C Program to Display Factors of a Number
+// Question no. 33 : C Program to Make a Simple Calculator Using switch...case
 
 
 #include <stdio.h>
